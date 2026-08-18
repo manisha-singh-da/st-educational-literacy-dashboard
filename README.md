@@ -170,7 +170,7 @@ This project extends beyond descriptive analysis by highlighting policy implicat
 
 **Manisha Singh**
 
-**Aspiring Data Analyst | Public Policy Research | Power BI | SQL | Python**
+**Aspiring Data Analyst | Power BI | SQL | Python**
 
 GitHub: **https://github.com/manisha-singh-da**
 
